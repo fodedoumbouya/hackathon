@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "6335a7bb748d229b92ab7257d53a32569cc69d2fd562809a127d78b9c917a1ff"
-build_start_time: [1671182582, 889261960]
-build_end_time: [1671182583, 860867977]
+options: "29e48416773889ad4866fad499da55f99916ca5107e33e8ccd34c3b52c28020a"
+build_start_time: [1671192092, 16376972]
+build_end_time: [1671192092, 39633989]
 inputs:
-  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Flutter/GeneratedPluginRegistrant.swift": [1671182577, 960613012]
-  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Runner/AppDelegate.swift": [1655778112, 540067195]
-  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Runner/MainFlutterWindow.swift": [1655778112, 541348934]
+  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1671189101, 604623317]
+  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Runner/AppDelegate.swift": !private [1655778112, 540067195]
+  "/Users/fodedoumbouya/devCode/flutterCode/hackathon/macos/Runner/MainFlutterWindow.swift": !private [1655778112, 541348934]
